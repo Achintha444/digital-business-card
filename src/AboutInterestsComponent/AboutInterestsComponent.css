@@ -1,0 +1,30 @@
+.aboutInterest {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 12px;
+    color: aliceblue;
+}
+
+.sub-section{
+    width: 88%;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    bottom: 2px;
+}
+
+.body {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+#interest{
+    position: relative;
+    top: 8px;
+}

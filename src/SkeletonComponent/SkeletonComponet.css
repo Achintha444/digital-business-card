@@ -1,6 +1,10 @@
 .skeleton{
     height: 80vh;
     width: 20vw;
+    min-width: 300px;
+    min-height: 900px;
+    max-width: 600px;
+    max-height: 1800px;
     background-color: #1b263b; 
     /* for footer #0d1b2a */
 

@@ -1,10 +1,10 @@
 import React from 'react';
-import './SkeletonComponet.css';
+import './footer.css';
 
-export default function SkeletonComponet() {
+export default function Footer() {
     return (
-        <div className='image'>
-
+        <div className='footer'>
+            Social Media Tags
         </div>
     )
 }

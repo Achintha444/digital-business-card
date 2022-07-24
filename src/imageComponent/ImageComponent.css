@@ -1,0 +1,6 @@
+.image img {
+    width: 20vw;
+    min-width: 300px;
+    max-width: 600px;
+    border-radius: 15px 15px 0px 0px;
+}

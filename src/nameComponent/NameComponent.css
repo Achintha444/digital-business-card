@@ -1,0 +1,23 @@
+.nameComponent {
+    text-align: center;
+    color: aliceblue;
+}
+
+.name {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.job {
+    font-size: 18px;
+    font-weight: 400;
+    top: -4px;
+    position: relative;
+}
+
+.connect {
+    font-size: 13px;
+    font-weight: 300;
+    top: 5px;
+    position: relative;
+}
